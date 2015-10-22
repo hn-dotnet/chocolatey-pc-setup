@@ -1,0 +1,19 @@
+iex ((new-object net.webclient).DownloadString('https://chocolatey.org/install.ps1'))
+
+choco install powergui
+choco install notepadplusplus
+choco install github
+choco install googlechrome
+choco install paint.net
+choco install teamviewer
+choco install baretail
+choco install gimp
+choco install winrar
+choco install greenshot
+choco install linqpad4
+choco install kdiff3
+choco install rdcman
+choco install firefox
+choco install visualstudio2015community
+choco install sqlserver2014express
+choco install mssqlservermanagementstudio2014express
