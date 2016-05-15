@@ -19,3 +19,5 @@ choco install mssqlservermanagementstudio2014express -y
 choco install googlechrome -y
 choco install visualstudio2015community -y
 choco install sqlserver2014express -y
+choco install visualstudiocode -y
+choco install nodejs.install -y
